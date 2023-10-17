@@ -6,11 +6,12 @@ This program implements the Adaline algorithm for the AND and OR gates. The Adal
 To use the program, simply run the simple_adaline.py file and input the values of A and B when prompted. The program will output the results of the OR and AND gates for the given input values.
 
 Example usage:
-
-`Input the value of A and B: 1 0
+```sh
+Input the value of A and B: 1 0
 
 The output of OR is: 1
 
-The output of AND is: 0`
+The output of AND is: 0
+```
 
 
